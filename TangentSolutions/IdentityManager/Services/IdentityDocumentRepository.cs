@@ -36,6 +36,19 @@ namespace IdentityManager.Services
             return result;
         }
 
+        public bool IsValidRsaId(string rsaId)
+        {
+            long rsaIdValue;
+
+            if (!long.TryParse(rsaId, out rsaIdValue)) return false;
+
+            var lastDigit = rsaId[rsaId.Length - 1];
+
+            var result = GenerateCheckDigit(rsaId.Remove(rsaId.Length - 1));
+
+            return lastDigit == result[result.Length - 1];
+        }
+
         private static string GenerateCheckDigit(string result)
         {
             const int maxLength = 12;
@@ -59,8 +72,14 @@ namespace IdentityManager.Services
                 }
 
                 evenProduct *= 2;
-                var sEvenProduct = evenProduct.ToString();
-                var evenSum = sEvenProduct.Sum(t => Convert.ToInt32(t));
+                var evenSum = 0;
+
+                do
+                {
+                    evenSum += evenProduct % 10;
+                    evenProduct = evenProduct / 10;
+                }
+                while (evenProduct > 0);
 
                 var sum = oddSum + evenSum;
                 var checkDigit = 10 - (sum%10);

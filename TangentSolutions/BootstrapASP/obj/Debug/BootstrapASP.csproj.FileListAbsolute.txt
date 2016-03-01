@@ -3,3 +3,16 @@ C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\BootstrapASP.pd
 C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\obj\Debug\BootstrapASP.csprojResolveAssemblyReference.cache
 C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\obj\Debug\BootstrapASP.dll
 C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\obj\Debug\BootstrapASP.pdb
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\IdentityManager.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Web.Http.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Web.Optimization.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Net.Http.Formatting.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Web.Http.Tracing.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Web.Http.WebHost.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\Newtonsoft.Json.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\IdentityManager.pdb
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Web.Http.xml
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Net.Http.Formatting.xml
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Web.Http.Tracing.xml
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\System.Web.Http.WebHost.xml
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\Newtonsoft.Json.xml
