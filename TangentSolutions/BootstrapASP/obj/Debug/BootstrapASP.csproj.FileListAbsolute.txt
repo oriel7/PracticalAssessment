@@ -1,0 +1,5 @@
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\BootstrapASP.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\bin\BootstrapASP.pdb
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\obj\Debug\BootstrapASP.csprojResolveAssemblyReference.cache
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\obj\Debug\BootstrapASP.dll
+C:\!GITHUB\PracticalAssessment\TangentSolutions\BootstrapASP\obj\Debug\BootstrapASP.pdb
