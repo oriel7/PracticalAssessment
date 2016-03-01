@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityManager", "IdentityManager\IdentityManager.csproj", "{3A790ED4-00D9-45C5-992D-F213E0934940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityManager.Tests", "IdentityManager.Tests\IdentityManager.Tests.csproj", "{107041B2-9EA7-462F-A6BC-9A4B7ED7CAF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A790ED4-00D9-45C5-992D-F213E0934940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A790ED4-00D9-45C5-992D-F213E0934940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A790ED4-00D9-45C5-992D-F213E0934940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A790ED4-00D9-45C5-992D-F213E0934940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107041B2-9EA7-462F-A6BC-9A4B7ED7CAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107041B2-9EA7-462F-A6BC-9A4B7ED7CAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107041B2-9EA7-462F-A6BC-9A4B7ED7CAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107041B2-9EA7-462F-A6BC-9A4B7ED7CAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
